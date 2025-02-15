@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://miltonzevo.github.io/ElephantBlowingBubbles-dark.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://miltonzevo.github.io/ElephantBlowingBubbles-light.jpg">
- <img alt="An illustration of a young white elephant blowing bubbles with his trunk" src="https://miltonzevo.github.io/ElephantBlowingBubbles-blue.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://miltonzevo.github.io/MiltonZevo/ElephantBlowingBubbles-dark.jpg" width="50%">
+  <source media="(prefers-color-scheme: light)" srcset="https://miltonzevo.github.io/MiltonZevo/ElephantBlowingBubbles-light.jpg" width="50%">
+  <img alt="An illustration of a young white elephant blowing bubbles with his trunk" src="https://miltonzevo.github.io/MiltonZevo/ElephantBlowingBubbles-blue.jpg" width="50%">
 </picture>
 <!-- To Do: reduce the size of the pictures -->
 
